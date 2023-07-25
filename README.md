@@ -1,14 +1,12 @@
 # Potato Disease Classification using CNN
 
-![Project Banner](link_to_banner_image.png) <!-- If you have a banner image, replace "link_to_banner_image.png" with the actual link -->
-
 ## Overview
 
 Potato Disease Classification using CNN is a computer vision project aimed at classifying potato plant images into three categories: "Early Blight," "Healthy," and "Late Blight." Leveraging the power of Convolutional Neural Networks (CNNs), this project can help farmers and researchers quickly identify and mitigate disease outbreaks in potato crops. The dataset used for training and validation is sourced from Kaggle, and data augmentation techniques using preprocessing layers from Keras have been applied to improve model generalization.
 
 ## Dataset
 
-The project utilizes a comprehensive dataset from Kaggle, consisting of images of potato plants affected by early blight, healthy plants, and late blight. The dataset has been carefully labeled and divided into training and validation sets to enable supervised learning.
+The project utilizes a comprehensive dataset from Kaggle, consisting of images of potato plants affected by early blight, healthy plants, and late blight. The dataset has been carefully labeled and divided into training and validation sets to enable supervised learning. Here's the link for the dataset https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 ## Data Augmentation
 
